@@ -1,0 +1,1 @@
+{"version":2,"defects":{"UsuarioRepositoryTest::testSalvarUsuarioNoBanco":8},"times":{"CalendarioTest::testDeveRetornarFalseParaDiaDeSemana":0.001,"CalendarioTest::testDeveRetornarTrueParaFimDeSemana":0,"UsuarioRepositoryTest::testSalvarUsuario":0,"UsuarioRepositoryTest::testSalvarUsuarioNoBanco":0.002}}
